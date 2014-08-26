@@ -24,8 +24,8 @@ headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20
     'Accept-Language' : 'en-US,en;q=0.5'
 }
 postData = {
-   'id' : 'saintli86',
-   'passwd' : '3569930',
+   'id' : '',
+   'passwd' : '',
 }
 postData = urllib.urlencode(postData)
 postData = postData + '&post=%B5%C7%C2%BC'
